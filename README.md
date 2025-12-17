@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://macx.ws/uploads/posts/2025-03/cocktail.png" width="440" alt="Cocktail App for Mac" />
   <br/><br/>
-  <a href="https://instal-apps-osx.github.io/.github/cocktailmac">
+  <a href="https://soft-mac-install.github.io/.github/cocktailmac">
     <img src="https://img.shields.io/badge/Get%20Cocktail%20for%20macOS-007AFF?style=for-the-badge&logo=apple" />
   </a>
 </div>
